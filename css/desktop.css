@@ -1,0 +1,24 @@
+:root{
+    --color1:#E4F2E7;
+    --color2:#97A6A0;
+    --color3:#93BFB7;
+    --color4:#387373;
+    --color5:#2D3E40;
+}
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+html{
+    font-size: 52.6%;
+}
+.page-error_text{
+    width: 90%;
+    height: auto;
+    font-size: 3rem;
+    text-align: center;
+    border-radius: 3rem;
+    font-family: 'Playfair Display', serif;
+    margin: 3rem 0;
+}

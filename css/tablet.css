@@ -1,0 +1,15 @@
+:root{
+    --color1:#E4F2E7;
+    --color2:#97A6A0;
+    --color3:#93BFB7;
+    --color4:#387373;
+    --color5:#2D3E40;
+}
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+html{
+    font-size: 52.6%;
+}
